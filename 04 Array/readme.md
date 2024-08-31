@@ -2,3 +2,8 @@
 #### 02 : [Second Largest and Second Smallest Elements in the Array](02.md)
 #### 03 : [Check Sorted Array](03.md)
 #### 04 : [Remove Duplicates from Sorted Array](04.md)
+#### 05 : [ Left Rotate an Array by One](05.md)
+#### 06 : [ Rotate array](06.md)
+#### 07 : [ Move Zero's to End](07.md)
+#### 08 : [ Linear Search](08.md)
+#### 09 : [Merge 2 Sorted Array](09.md)
