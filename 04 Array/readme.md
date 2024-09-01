@@ -7,3 +7,5 @@
 #### 07 : [ Move Zero's to End](07.md)
 #### 08 : [ Linear Search](08.md)
 #### 09 : [Merge 2 Sorted Array](09.md)
+#### 10 : [ Intersection Of Two Sorted Arrays](10.md)
+#### 11 : [ Missing Number](11.md)
