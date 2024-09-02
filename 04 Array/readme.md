@@ -9,3 +9,6 @@
 #### 09 : [Merge 2 Sorted Array](09.md)
 #### 10 : [ Intersection Of Two Sorted Arrays](10.md)
 #### 11 : [ Missing Number](11.md)
+#### 12 : [  Maximum Consecutive Ones](12.md)
+#### 13 : [ Find The Single Element](13.md)
+#### 14 : [  Two Sum](14.md)
